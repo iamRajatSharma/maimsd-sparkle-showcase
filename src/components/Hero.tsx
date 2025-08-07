@@ -92,7 +92,7 @@ const Hero = () => {
 
           <motion.p
             variants={itemVariants}
-            className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed"
+            className="text-xl md:text-2xl text-white mb-8 max-w-2xl mx-auto leading-relaxed"
           >
             MAIMSD Technology delivers cutting-edge software development, cloud computing, 
             and IT consultancy services to transform your business vision into reality.
